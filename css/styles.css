@@ -18,6 +18,8 @@ pre {
   max-width: 100%;
   white-space: pre-wrap;   
   word-break: break-word;
+  text-indent: -24px;
+  padding-left: 24px;
 }
 
 a {
@@ -29,6 +31,7 @@ a {
 a:hover {
   text-decoration-style: double;  /* double underline on hover */
 }
+
 
 
 
